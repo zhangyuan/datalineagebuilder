@@ -1,0 +1,1 @@
+spring.datasource.url=jdbc:sqlserver://localhost:1433;database=staging_local;user=sa;password=Wlg100c_Skz*c
